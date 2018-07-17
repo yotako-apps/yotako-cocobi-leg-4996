@@ -1,0 +1,220 @@
+@media (max-width:768px) {
+  .newwireframe1unsupported0 {
+    margin-left: 143px;
+    margin-top: 24px;
+    width: 86px;
+    height: 71px
+  }
+  .style0,
+  .style2 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000
+  }
+  .style0 {
+    font-family: BalsamiqSans,serif;
+    font-size: .3515625em;
+    text-indent: 5px;
+    margin-left: 122px;
+    margin-top: 17px;
+    width: 138px;
+    height: 68px
+  }
+  .style2 {
+    box-shadow: 1395699160967px 1395699160967px 0 0 #000;
+    display: flex;
+    margin-left: 174px;
+    margin-top: 8px;
+    width: 25px;
+    height: 13px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style3 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .3515625em;
+    height: 6px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style4 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.640625em;
+    margin-left: 81px;
+    margin-top: 39px;
+    height: 31px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .newwireframe1unsupported0 {
+    margin-left: 292px;
+    margin-top: 49px;
+    width: 175px;
+    height: 145px
+  }
+  .style0,
+  .style2 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000
+  }
+  .style0 {
+    font-family: BalsamiqSans,serif;
+    font-size: .72em;
+    text-indent: 10px;
+    margin-left: 249px;
+    margin-top: 35px;
+    width: 282px;
+    height: 139px
+  }
+  .style2 {
+    box-shadow: 1395699160967px 1395699160967px 0 0 #000;
+    display: flex;
+    margin-left: 356px;
+    margin-top: 17px;
+    width: 51px;
+    height: 27px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style3 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .72em;
+    height: 13px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style4 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 3.36em;
+    margin-left: 166px;
+    margin-top: 80px;
+    height: 63px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .newwireframe1unsupported0 {
+    margin-left: 350px;
+    margin-top: 59px;
+    width: 210px;
+    height: 173px
+  }
+  .style0,
+  .style2 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000
+  }
+  .style0 {
+    font-family: BalsamiqSans,serif;
+    font-size: .8625em;
+    text-indent: 12px;
+    margin-left: 298px;
+    margin-top: 41px;
+    width: 338px;
+    height: 166px
+  }
+  .style2 {
+    box-shadow: 1395699160967px 1395699160967px 0 0 #000;
+    display: flex;
+    margin-left: 427px;
+    margin-top: 20px;
+    width: 61px;
+    height: 32px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style3 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .8625em;
+    height: 15px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style4 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 4.025em;
+    margin-left: 199px;
+    margin-top: 96px;
+    height: 76px
+  }
+}
+@media (min-width:1200px) {
+  .newwireframe1unsupported0 {
+    margin-left: 457px;
+    margin-top: 77px;
+    width: 274px;
+    height: 226px
+  }
+  .style0,
+  .style2 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000
+  }
+  .style0 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.125em;
+    text-indent: 15px;
+    margin-left: 389px;
+    margin-top: 54px;
+    width: 441px;
+    height: 217px
+  }
+  .style2 {
+    box-shadow: 1395699160967px 1395699160967px 0 0 #000;
+    display: flex;
+    margin-left: 557px;
+    margin-top: 26px;
+    width: 79px;
+    height: 42px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style3 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.125em;
+    height: 20px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style4 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 5.25em;
+    margin-left: 260px;
+    margin-top: 125px;
+    height: 99px
+  }
+}
